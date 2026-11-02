@@ -1,5 +1,11 @@
 # Netflix Movies and TV Shows Analysis and Recommender
 
+# Team members A5:
+1. Tanishka Ambilkar (20)
+2. Surbhi Mangrulkar (03)
+3. Bhumika Tulswani (06)
+4. Nidhi Virani (28)
+
 ## Project Overview
 
 This project focuses on analyzing Netflix movies and TV shows using Python. It explores different aspects of Netflix content through data analysis and visualization. It also provides a recommendation system that helps users find movies and TV shows based on their preferences.
